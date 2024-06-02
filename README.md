@@ -1,5 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/0c6818b1073ad719c0675d1a94f908e1f01715f0c962669cf487691642daa1cb/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966)
-# 💫 About Me:
+![MasterHead](https://camo.githubusercontent.com/0c6818b1073ad719c0675d1a94f908e1f01715f0c962669cf487691642daa1cb/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966)
+<h1 align="center">Hi 👋, I'm Mohammad Fattachul 'Alim</h1>
+<h3 align="center">DS AI Enthusiast | Informatics Undergraduate Student at Nahdlatul Ulama University of Yogyakarta</h3>
+
+
+
+## 💫 About Me:
 I'm Currently an Informatics student at Nahdlatul Ulama University Yogyakarta
 
 
@@ -12,8 +17,6 @@ I'm Currently an Informatics student at Nahdlatul Ulama University Yogyakarta
 ![](https://github-readme-stats.vercel.app/api?username=mofttach&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mofttach&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mofttach&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mofttach&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
